@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <itunes:author>Amir Rubin</itunes:author>
+  <itunes:owner>
+    <itunes:name>Amir Rubin</itunes:name>
+    <itunes:email>amirosu@gmail.com</itunes:email>
+  </itunes:owner>
+  <title>Frontier Sparks</title>
+  <description>Frontier Sparks is your daily 15-minute briefing on what matters in consumer AI. Hosts Alex and Jordan break down the newest tools and agents - from Meta, Grok, ChatGPT, Gemini, and Claude - and share the ideas worth stealing for building your own AI agents.
+
+AI Generated</description>
+  <language>en</language>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://muse.ai/podcasts/feed/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/cover.png"/>
+  <image>
+    <url>https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/cover.png</url>
+    <title>Frontier Sparks</title>
+    <link>https://muse.ai/podcasts/feed/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe</link>
+  </image>
+  <item>
+    <title>Frontier Sparks — October 1, 2026</title>
+    <description>Corrected complete edition: Anthropic&apos;s $2T IPO filing, Google&apos;s Gemini 4 Argon, Nvidia&apos;s agent safety platform, OpenAI&apos;s Dots, Meta&apos;s Muse milestone, and five agent patterns worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-a697d39e-fc8b-4856-aae0-f5a438bd4410.mp3" length="5797669" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a697d39e-fc8b-4856-aae0-f5a438bd4410</guid>
+    <pubDate>Fri, 02 Oct 2026 17:18:20 +0000</pubDate>
+    <itunes:duration>748</itunes:duration>
+  </item>
+</channel>
+</rss>
