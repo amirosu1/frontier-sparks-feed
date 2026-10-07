@@ -70,5 +70,15 @@ AI Generated</description>
     <pubDate>Tue, 06 Oct 2026 19:18:58 +0000</pubDate>
     <itunes:duration>882</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 7, 2026</title>
+    <description>Alex and Jordan cover Google&apos;s Nano Banana 2.1 image model at half price, Anthropic&apos;s tiered cyber arsenal, the assistant wars going multi-model, AI shopping with one-click checkout, and five ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-0c01ed32-21f6-4eed-9194-ce7ce06e9544.mp3" length="6052645" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0c01ed32-21f6-4eed-9194-ce7ce06e9544</guid>
+    <pubDate>Wed, 07 Oct 2026 15:11:44 +0000</pubDate>
+    <itunes:duration>756</itunes:duration>
+  </item>
 </channel>
 </rss>
