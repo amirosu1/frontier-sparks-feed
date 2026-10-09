@@ -90,5 +90,15 @@ AI Generated</description>
     <pubDate>Thu, 08 Oct 2026 15:04:33 +0000</pubDate>
     <itunes:duration>777</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 9, 2026</title>
+    <description>Anthropic&apos;s big Thursday: Claude Dashboards and Motion, a free OSS security scanner, and a rewritten usage policy. OpenAI&apos;s fired safety researchers hit back. Hark Pro enters the agent wars. Plus Trump&apos;s terminology war and a broadband switch done by an agent overnight.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-f4b75bc2-31c0-4df7-af62-030687a6ab86.mp3" length="6008485" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f4b75bc2-31c0-4df7-af62-030687a6ab86</guid>
+    <pubDate>Fri, 09 Oct 2026 15:03:07 +0000</pubDate>
+    <itunes:duration>751</itunes:duration>
+  </item>
 </channel>
 </rss>
