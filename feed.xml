@@ -120,5 +120,15 @@ AI Generated</description>
     <pubDate>Mon, 12 Oct 2026 15:25:01 +0000</pubDate>
     <itunes:duration>842</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 13, 2026</title>
+    <description>Meta&apos;s Muse Wonder enters the frontier race, Apple launches HomeView and a Siri AI home lineup, SpaceXSI bundles Grok and Cursor into one subscription, and Anthropic clamps down on model distillation, plus podcast echoes and three agent ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-d6e2b2db-ad51-4389-8f2d-1b1a2214010a.mp3" length="5940325" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d6e2b2db-ad51-4389-8f2d-1b1a2214010a</guid>
+    <pubDate>Tue, 13 Oct 2026 15:03:13 +0000</pubDate>
+    <itunes:duration>742</itunes:duration>
+  </item>
 </channel>
 </rss>
