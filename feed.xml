@@ -170,5 +170,15 @@ AI Generated</description>
     <pubDate>Sun, 18 Oct 2026 15:10:47 +0000</pubDate>
     <itunes:duration>831</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 19, 2026</title>
+    <description>Apple bans nudify bait-and-switch apps, four Gemini 4 Argon agents beat Minecraft and publish the bill, Anthropic commits 5 percent of its shares to a public benefit fund, DeepSeek ships search and fetch APIs for agent builders, Disney hires the majority of Character.AI, and Claude closes a decades-old encryption mystery.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-a29d4369-a3ad-4e85-9677-a2c5209dc110.mp3" length="7028581" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a29d4369-a3ad-4e85-9677-a2c5209dc110</guid>
+    <pubDate>Mon, 19 Oct 2026 16:52:44 +0000</pubDate>
+    <itunes:duration>878</itunes:duration>
+  </item>
 </channel>
 </rss>
