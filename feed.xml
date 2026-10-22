@@ -200,5 +200,15 @@ AI Generated</description>
     <pubDate>Wed, 21 Oct 2026 15:16:14 +0000</pubDate>
     <itunes:duration>1088</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 22, 2026</title>
+    <description>Meta Q3 actuals: 4.6B revenue beat but free cash flow negative .12B on 4.9B capex, Muse at 10M+ setups with shopping as top use; Walmart opens Agent Gateway to AI shoppers as Amazon blocks them; Anthropic launches Claude Duet with hard guardrails; Railway and LiteLLM breaches show AI keys are the target; banks reportedly detect unauthorized agents (Axios, unverified); Anthropic IPO stands alone.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-802a201c-2570-4276-8612-a07d2c4655fd.mp3" length="8190181" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-802a201c-2570-4276-8612-a07d2c4655fd</guid>
+    <pubDate>Thu, 22 Oct 2026 15:14:29 +0000</pubDate>
+    <itunes:duration>1023</itunes:duration>
+  </item>
 </channel>
 </rss>
