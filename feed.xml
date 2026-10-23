@@ -210,5 +210,15 @@ AI Generated</description>
     <pubDate>Thu, 22 Oct 2026 15:14:29 +0000</pubDate>
     <itunes:duration>1023</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 23, 2026</title>
+    <description>Anthropic donates Agent Skills to the Linux Foundation; Muse GhostShares privacy flaw; OpenAI-NASK safety pact; ConnectWise agent-speed breach; 1Password brokered agent logins; MIT agents learn by playing; Warp Science raises 215M dollars.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-ecc4ff99-0dc3-40c4-af23-fcf43f098111.mp3" length="7548517" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ecc4ff99-0dc3-40c4-af23-fcf43f098111</guid>
+    <pubDate>Fri, 23 Oct 2026 15:04:51 +0000</pubDate>
+    <itunes:duration>943</itunes:duration>
+  </item>
 </channel>
 </rss>
