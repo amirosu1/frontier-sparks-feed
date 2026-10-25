@@ -220,5 +220,15 @@ AI Generated</description>
     <pubDate>Fri, 23 Oct 2026 15:04:51 +0000</pubDate>
     <itunes:duration>943</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 25, 2026</title>
+    <description>TechCrunch&apos;s AI Graveyard tracks the products that died in 2026; Anthropic&apos;s draft bill sets a one-billion-dollar line for shutting down a model; Convovo forced GPT and Grok to vote; Moonshot&apos;s Kimi K3.1 Pro arrives with its cyber skills trimmed; Cohere moves to buy vulnerability hunter AISLE.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-1955b3c0-07c2-4589-a8cb-aaa868b4dc94.mp3" length="7818277" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1955b3c0-07c2-4589-a8cb-aaa868b4dc94</guid>
+    <pubDate>Sun, 25 Oct 2026 15:21:20 +0000</pubDate>
+    <itunes:duration>977</itunes:duration>
+  </item>
 </channel>
 </rss>
