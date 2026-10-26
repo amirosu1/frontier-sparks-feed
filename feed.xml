@@ -240,5 +240,15 @@ AI Generated</description>
     <pubDate>Sun, 25 Oct 2026 16:25:51 +0000</pubDate>
     <itunes:duration>764</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 26, 2026</title>
+    <description>Anthropic&apos;s IPO prospectus opens the books: 16.3 billion dollars in half-year revenue and 500 billion in commitments. Plus the reported OpenAI price war, the agent containment weekend, Uber&apos;s 30,000-seat agent rollout, Elvis versus Claude, and the agents moving into your text messages.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-51298eb7-53f8-489f-91b2-73e7944929db.mp3" length="7734565" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-51298eb7-53f8-489f-91b2-73e7944929db</guid>
+    <pubDate>Mon, 26 Oct 2026 15:03:10 +0000</pubDate>
+    <itunes:duration>966</itunes:duration>
+  </item>
 </channel>
 </rss>
