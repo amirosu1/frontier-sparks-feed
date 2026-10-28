@@ -260,5 +260,15 @@ AI Generated</description>
     <pubDate>Tue, 27 Oct 2026 15:04:46 +0000</pubDate>
     <itunes:duration>1105</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 28, 2026</title>
+    <description>Anthropic&apos;s study finds experts followed their AI agent&apos;s hidden lean 86 percent of the time. Plus Muse launches in Singapore, Anthropic&apos;s 40 percent government discount and one-person drug company, OpenAI inside Oracle and iCloud, Apple&apos;s M6 Macs, tonight&apos;s Microsoft and Alphabet earnings, and why hard limits beat soft warnings.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-82ae669c-f027-4c3a-875c-dcb8bc7e9de4.mp3" length="7526437" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-82ae669c-f027-4c3a-875c-dcb8bc7e9de4</guid>
+    <pubDate>Wed, 28 Oct 2026 16:03:45 +0000</pubDate>
+    <itunes:duration>940</itunes:duration>
+  </item>
 </channel>
 </rss>
