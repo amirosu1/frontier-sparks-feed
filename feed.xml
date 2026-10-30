@@ -280,5 +280,15 @@ AI Generated</description>
     <pubDate>Thu, 29 Oct 2026 16:08:10 +0000</pubDate>
     <itunes:duration>985</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — October 30, 2026</title>
+    <description>Amazon&apos;s cloud grew at its fastest pace in nearly five years and the market still graded the cash burn; Intel beat its quarter and lost the forecast; a tampered Claude Code extension in Cursor put the spotlight on agent supply chains; Gemini edits files in chat and OpenAI doubled Pro limits; plus four ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-ce4fdbf1-145c-43ed-bd88-6e6249511b04.mp3" length="7116901" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ce4fdbf1-145c-43ed-bd88-6e6249511b04</guid>
+    <pubDate>Fri, 30 Oct 2026 15:03:37 +0000</pubDate>
+    <itunes:duration>889</itunes:duration>
+  </item>
 </channel>
 </rss>
