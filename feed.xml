@@ -320,5 +320,15 @@ AI Generated</description>
     <pubDate>Tue, 03 Nov 2026 16:09:46 +0000</pubDate>
     <itunes:duration>931</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 4, 2026</title>
+    <description>AMD beat and guided to seventeen billion for Q4; Super Micro quadrupled revenue at thin margins; Anthropic&apos;s filing shows seventeen billion in a quarter against 895 billion in compute commitments; Menlo says enterprise AI spend hit 177 billion and the customers are machines; Google schools get an opt-in with a catch; CrowdStrike ships an agent kill switch; plus four ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-2b2ff631-e317-41c8-aa74-8da954b2c2e4.mp3" length="7020517" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2b2ff631-e317-41c8-aa74-8da954b2c2e4</guid>
+    <pubDate>Wed, 04 Nov 2026 16:26:27 +0000</pubDate>
+    <itunes:duration>877</itunes:duration>
+  </item>
 </channel>
 </rss>
