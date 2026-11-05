@@ -330,5 +330,15 @@ AI Generated</description>
     <pubDate>Wed, 04 Nov 2026 16:26:27 +0000</pubDate>
     <itunes:duration>877</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 5, 2026</title>
+    <description>Uber counts four agent-booked rides in its biggest week; Arm, Qualcomm, and AppLovin grade the chip boom from three seats; ChatGPT Images 2.6 and Google checkout in Canada; Meta and OpenAI buy the agent workbench; and four ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-8f2fb66e-5a04-4653-b749-562dd548b8e1.mp3" length="7163941" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8f2fb66e-5a04-4653-b749-562dd548b8e1</guid>
+    <pubDate>Thu, 05 Nov 2026 16:29:54 +0000</pubDate>
+    <itunes:duration>895</itunes:duration>
+  </item>
 </channel>
 </rss>
