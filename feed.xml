@@ -360,5 +360,15 @@ AI Generated</description>
     <pubDate>Sun, 08 Nov 2026 16:12:19 +0000</pubDate>
     <itunes:duration>973</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 9, 2026</title>
+    <description>Nvidia&apos;s board investigates CEO Jensen Huang, Meta rolls AI age estimation global and gives Muse a free memory upgrade, OpenAI and Anthropic valuations reprice, Dwarkesh&apos;s lie-detection benchmark, and a defense playbook for unpatchable systems.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-7b4343e0-1b0a-4f37-80d3-e51e336c848c.mp3" length="8055973" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-7b4343e0-1b0a-4f37-80d3-e51e336c848c</guid>
+    <pubDate>Mon, 09 Nov 2026 16:18:52 +0000</pubDate>
+    <itunes:duration>1006</itunes:duration>
+  </item>
 </channel>
 </rss>
