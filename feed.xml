@@ -370,5 +370,15 @@ AI Generated</description>
     <pubDate>Mon, 09 Nov 2026 16:18:52 +0000</pubDate>
     <itunes:duration>1006</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 10, 2026</title>
+    <description>Alex and Jordan cover Anthropic&apos;s IPO price range and 1B run rate, Claude Fable 5.2 and Mythos 5.2, Claude Meetings, Meta Muse Ember, Australia&apos;s rogue-AI reporting mandate, and stealable agent patterns: planner/grinder economics and self-auditing memory.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-db85218e-93fe-4f91-a7a5-86f864be11f3.mp3" length="6760165" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-db85218e-93fe-4f91-a7a5-86f864be11f3</guid>
+    <pubDate>Tue, 10 Nov 2026 18:20:21 +0000</pubDate>
+    <itunes:duration>845</itunes:duration>
+  </item>
 </channel>
 </rss>
