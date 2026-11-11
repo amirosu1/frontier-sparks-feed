@@ -380,5 +380,15 @@ AI Generated</description>
     <pubDate>Tue, 10 Nov 2026 18:20:21 +0000</pubDate>
     <itunes:duration>845</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 11, 2026</title>
+    <description>Alex and Jordan cover the Grok Build share-link exposure that left 35,578 apps open, Gemini 4 Carbon going generally available, OpenAI&apos;s Businesses in ChatGPT, New York&apos;s RAISE Act portal, and ideas worth stealing on publish defaults, experience capital, and multi-key approvals.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-27d9b27e-e7b8-41b3-87a5-db15680ca5c4.mp3" length="6658405" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-27d9b27e-e7b8-41b3-87a5-db15680ca5c4</guid>
+    <pubDate>Wed, 11 Nov 2026 16:08:55 +0000</pubDate>
+    <itunes:duration>832</itunes:duration>
+  </item>
 </channel>
 </rss>
