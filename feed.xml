@@ -450,5 +450,15 @@ AI Generated</description>
     <pubDate>Wed, 18 Nov 2026 16:18:16 +0000</pubDate>
     <itunes:duration>770</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 19, 2026</title>
+    <description>Alex and Jordan cover the GAO&apos;s covert tests that bent every major chatbot&apos;s guardrails in under twelve hours, Anthropic&apos;s record IPO pricing at $83 a share and its first day trading as ANT, Google&apos;s Gemini 4 Neon and Genie 4, ChatGPT for Accounting, the IEA&apos;s data-center power outlook, Nvidia&apos;s five-day slide, short-seller reports on Nvidia and AMD, plus ideas worth stealing from Practical AI, Atlassian, Andrew Ng, and Paul Lipsky.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-86cb3673-c7f3-4f29-8ab1-4512e4e1949a.mp3" length="13110619" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-86cb3673-c7f3-4f29-8ab1-4512e4e1949a</guid>
+    <pubDate>Thu, 19 Nov 2026 16:13:44 +0000</pubDate>
+    <itunes:duration>819</itunes:duration>
+  </item>
 </channel>
 </rss>
