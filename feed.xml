@@ -460,5 +460,15 @@ AI Generated</description>
     <pubDate>Thu, 19 Nov 2026 16:13:44 +0000</pubDate>
     <itunes:duration>819</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 20, 2026</title>
+    <description>Alex and Jordan on Meta Muse surfacing other users&apos; private data, Anthropic&apos;s debut-day verdict and ARK&apos;s 91 million dollar buy, 879,000 approved chip sales to China, Gemini taking over the Mac, and why you audit an agent&apos;s actions, not its thoughts.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-d44c27af-a8a1-48ad-95fc-788087667a78.mp3" length="11874296" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d44c27af-a8a1-48ad-95fc-788087667a78</guid>
+    <pubDate>Fri, 20 Nov 2026 16:05:21 +0000</pubDate>
+    <itunes:duration>742</itunes:duration>
+  </item>
 </channel>
 </rss>
