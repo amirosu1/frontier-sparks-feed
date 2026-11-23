@@ -480,5 +480,15 @@ AI Generated</description>
     <pubDate>Sun, 22 Nov 2026 16:19:51 +0000</pubDate>
     <itunes:duration>855</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 23, 2026</title>
+    <description>Alex and Jordan on the Claude Riemann proof claim still awaiting a verdict, OpenAI&apos;s perplexity limits proposal, attacker agents finding a zero-day in eleven minutes, Together AI&apos;s credential leak, Signal versus OS agents, the Grok state suits, and how shopping agents actually buy.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-5abcd858-38f5-41ba-8202-282b3868e562.mp3" length="13720004" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5abcd858-38f5-41ba-8202-282b3868e562</guid>
+    <pubDate>Mon, 23 Nov 2026 16:52:17 -0000</pubDate>
+    <itunes:duration>857</itunes:duration>
+  </item>
 </channel>
 </rss>
