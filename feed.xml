@@ -490,5 +490,15 @@ AI Generated</description>
     <pubDate>Mon, 23 Nov 2026 16:52:17 -0000</pubDate>
     <itunes:duration>857</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 24, 2026</title>
+    <description>Alex and Jordan on Meta Muse&apos;s UK launch, GPT-6.2 Sol in ChatGPT, Google Personal Intelligence, Claude Ship, DeepMind&apos;s Lean-proved quantum agents, and ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-2c8470b6-2ef0-4fd6-81ff-a1afdcfb9aaa.mp3" length="13730871" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2c8470b6-2ef0-4fd6-81ff-a1afdcfb9aaa</guid>
+    <pubDate>Tue, 24 Nov 2026 16:10:38 +0000</pubDate>
+    <itunes:duration>858</itunes:duration>
+  </item>
 </channel>
 </rss>
