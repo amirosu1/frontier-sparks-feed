@@ -500,5 +500,15 @@ AI Generated</description>
     <pubDate>Tue, 24 Nov 2026 16:10:38 +0000</pubDate>
     <itunes:duration>858</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 25, 2026</title>
+    <description>Alex and Jordan on Muse moving into Instagram DMs and Walmart&apos;s Black Friday checkout, Forter&apos;s agent-shopping numbers, the ShellBench reality check, Claude artifacts as desktop apps, Anthropic&apos;s Siren sandbox study, and ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-f1ba0fff-558c-427b-9226-2dd4ec50eb7c.mp3" length="14728539" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f1ba0fff-558c-427b-9226-2dd4ec50eb7c</guid>
+    <pubDate>Wed, 25 Nov 2026 15:55:07 +0000</pubDate>
+    <itunes:duration>920</itunes:duration>
+  </item>
 </channel>
 </rss>
