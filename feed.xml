@@ -510,5 +510,15 @@ AI Generated</description>
     <pubDate>Wed, 25 Nov 2026 15:55:07 +0000</pubDate>
     <itunes:duration>920</itunes:duration>
   </item>
+  <item>
+    <title>Frontier Sparks — November 26, 2026</title>
+    <description>Alex and Jordan on OpenAI&apos;s GPT-6.2 billing fix, Anthropic&apos;s Rust migration of the Messages API, a16z&apos;s how-agents-buy data, Perplexity Time Machine, OpenAI Private Inference, Gemini accessibility updates, and ideas worth stealing.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/7d77df7f-8254-4549-8cb5-b3aa50df7efe/ep-af68f5ce-8ce5-4ebc-99ed-634fe156753a.mp3" length="14889454" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-af68f5ce-8ce5-4ebc-99ed-634fe156753a</guid>
+    <pubDate>Thu, 26 Nov 2026 16:14:25 +0000</pubDate>
+    <itunes:duration>930</itunes:duration>
+  </item>
 </channel>
 </rss>
